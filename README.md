@@ -4,9 +4,11 @@ The first task resize image into (640,480), (320,240), (64,48) and (32,24).
 The second task convert RGB image into HSV,L*a*b and YCbCr color spaces.
 
 **Original Image**
+
 ![image](https://user-images.githubusercontent.com/127378979/224912462-853f6dab-44b8-46da-a639-16361f82447c.png)
 
 1. Grayscale image
+
 ![image](https://user-images.githubusercontent.com/127378979/224912581-c01244d7-2c8b-4ae4-b9df-5826e543f75c.png)
 
 2. Seperated RGB
